@@ -6,6 +6,8 @@ Data Analyst Internship
 
 To clean and preprocess the Netflix dataset by handling missing values, checking duplicates, and preparing the data for further analysis.
 
+--- 
+
 **Dataset Used**
 
 Netflix Movies and TV Shows Dataset (netflix_titles.csv)
