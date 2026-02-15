@@ -1,6 +1,4 @@
-###Netflix Data Cleaning – Task 1
-
-Data Analyst Internship
+**Netflix Data Cleaning – Task 1**
 
 **Objective**
 
@@ -16,6 +14,7 @@ Total Records: 8807
 
 Total Columns: 12
 
+---
 **Data Cleaning Steps Performed**
 
 1️)Initial Exploration
@@ -48,6 +47,7 @@ Renamed columns to lowercase and removed spaces
 
 Removed extra spaces from text columns
 
+---
 *Final Output*
 
 Cleaned dataset saved as netflix_cleaned.csv
@@ -55,6 +55,8 @@ Cleaned dataset saved as netflix_cleaned.csv
 Dataset contains no missing values
 
 Ready for further analysis or visualization
+
+----
 
 *Tools Used*
 
