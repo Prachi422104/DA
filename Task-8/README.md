@@ -1,56 +1,58 @@
-Objective
+## Objective
 
 To create a basic interactive dashboard using Power BI that shows sales performance by:
 
-Product Category
+-Product Category
 
-Region
+-Region
 
-Month
+-Month
 
 The goal was to visually summarize business data for better decision-making.
 
-Dataset Used
+## Dataset Used
 
-Sample-Superstore.csv
+*Sample-Superstore.csv*
 
-Columns Used:
+## Columns Used:
 
-Order Date
+-Order Date
 
-Region
+-Region
 
-Category
+-Category
 
-Sales
+-Sales
 
-Profit
+-Profit
 
-Tools Used
+## Tools Used
 
-Power BI Desktop
+-Power BI Desktop
 
-CSV Dataset
+-CSV Dataset
 
-Steps Performed
+## Steps Performed
 
-Imported the CSV file into Power BI.
+-Imported the CSV file into Power BI.
 
-Converted the Order Date column into Month-Year format.
+-Converted the Order Date column into Month-Year format.
 
-Created the following visuals:
+-Created the following visuals:
 
-Line Chart – Sales over Months
+-- Line Chart – Sales over Months
 
-Bar Chart – Sales by Region
+-- Bar Chart – Sales by Region
 
-Donut Chart – Sales by Category
+-- Donut Chart – Sales by Category
 
-Added a Slicer (Filter) for Region to make the dashboard interactive.
+-- Added a Slicer (Filter) for Region to make the dashboard interactive.
 
-Applied proper alignment, titles, and clean formatting.
+-- Applied proper alignment, titles, and clean formatting.
 
-Dashboard Features
+----
+
+## Dashboard Features
 
 Interactive filtering using slicer
 
