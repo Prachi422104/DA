@@ -2,7 +2,7 @@
 
 To create a basic interactive dashboard using Power BI that shows sales performance by:
 
--Product Category
+- Product Category
 
 -Region
 
