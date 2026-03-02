@@ -4,9 +4,9 @@ To create a basic interactive dashboard using Power BI that shows sales performa
 
 - Product Category
 
--Region
+- Region
 
--Month
+- Month
 
 The goal was to visually summarize business data for better decision-making.
 
@@ -16,29 +16,29 @@ The goal was to visually summarize business data for better decision-making.
 
 ## Columns Used:
 
--Order Date
+- Order Date
 
--Region
+- Region
 
--Category
+- Category
 
--Sales
+- Sales
 
--Profit
+- Profit
 
 ## Tools Used
 
--Power BI Desktop
+- Power BI Desktop
 
--CSV Dataset
+- CSV Dataset
 
 ## Steps Performed
 
--Imported the CSV file into Power BI.
+- Imported the CSV file into Power BI.
 
--Converted the Order Date column into Month-Year format.
+- Converted the Order Date column into Month-Year format.
 
--Created the following visuals:
+- Created the following visuals:
 
 -- Line Chart – Sales over Months
 
@@ -48,50 +48,43 @@ The goal was to visually summarize business data for better decision-making.
 
 -- Added a Slicer (Filter) for Region to make the dashboard interactive.
 
--- Applied proper alignment, titles, and clean formatting.
+- Applied proper alignment, titles, and clean formatting.
 
 ----
 
 ## Dashboard Features
 
-Interactive filtering using slicer
+- Interactive filtering using slicer
 
-Clear comparison of regional sales
+- Clear comparison of regional sales
 
-Monthly sales trend analysis
+- Monthly sales trend analysis
 
-Category-wise revenue distribution
+- Category-wise revenue distribution
 
-Clean and simple layout
+---
 
-Key Insights
+## Key Insights
 
-The West region generated the highest overall sales.
+- The West region generated the highest overall sales.
 
-Sales showed an increasing trend towards the end of the year.
+- Sales showed an increasing trend towards the end of the year.
 
-Technology category contributed the most revenue.
+- Technology category contributed the most revenue.
 
-Some months had high sales but comparatively lower profit.
+- Some months had high sales but comparatively lower profit.
 
-Deliverables
 
-Dashboard Screenshot / PDF Export
+## What I Learned
 
-This README file
+- How to import and transform data in Power BI
 
-Dataset file
+- How to choose the right chart for different types of data
 
-What I Learned
+- How slicers improve dashboard interactivity
 
-How to import and transform data in Power BI
+- How to design a clean and professional dashboard
 
-How to choose the right chart for different types of data
-
-How slicers improve dashboard interactivity
-
-How to design a clean and professional dashboard
-
-Outcome
+## Outcome
 
 This task helped me understand how to build a simple business dashboard and present data insights visually for business users.
