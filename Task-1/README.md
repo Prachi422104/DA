@@ -8,40 +8,40 @@ To clean and preprocess the Netflix dataset by handling missing values, checking
 
 **Dataset Used**
 
-Netflix Movies and TV Shows Dataset (netflix_titles.csv)
+- Netflix Movies and TV Shows Dataset (netflix_titles.csv)
 
-Total Records: 8807
+- Total Records: 8807
 
-Total Columns: 12
+- Total Columns: 12
 
 ---
 **Data Cleaning Steps Performed**
 
-1️)Initial Exploration
+**1️)Initial Exploration**
 
 Used df.head(), df.info(), and df.isnull().sum()
 
 Identified missing values in director, cast, country, date_added, rating, and duration
 
-2️)Handling Missing Values
+**2️)Handling Missing Values**
 
-Director & Cast → Filled with "Not Available"
+- Director & Cast → Filled with "Not Available"
 
-Country → Filled with "Unknown"
+- Country → Filled with "Unknown"
 
-Rating → Filled using Mode (most frequent value)
+- Rating → Filled using Mode (most frequent value)
 
-Duration → Filled with "Unknown" to maintain dataset consistency
+- Duration → Filled with "Unknown" to maintain dataset consistency
 
-Date Added → Cleaned and converted to datetime format
+- Date Added → Cleaned and converted to datetime format
 
-3️)Duplicate Check
+**3️)Duplicate Check**
 
 Checked using df.duplicated().sum()
 
 No duplicate rows found
 
-4️)Standardization
+**4️)Standardization**
 
 Renamed columns to lowercase and removed spaces
 
@@ -60,8 +60,8 @@ Ready for further analysis or visualization
 
 *Tools Used*
 
-Python
+- Python
 
-Pandas
+- Pandas
 
-Jupyter Notebook
+- Jupyter Notebook
