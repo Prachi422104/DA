@@ -1,50 +1,51 @@
-📊 Coffee Chain Sales Performance Dashboard
-🎯 Objective
+### Coffee Chain Sales Performance Dashboard
+---
+## Objective
 
 To design an interactive business dashboard in Tableau to analyze Sales performance, Target achievement, Profitability, and Market performance for a Coffee Chain company.
 
-🛠 Tools Used
+## Tools Used
 
-Tableau Public
+- Tableau Public
 
-Coffee Chain Sales Dataset
+- Coffee Chain Sales Dataset
 
-📌 Key KPIs
+## Key KPIs
 
-Total Sales
+- Total Sales
 
-Target Sales
+- Target Sales
 
-Sales Variance (Actual – Target)
+- Sales Variance (Actual – Target)
 
-Total Profit
+- Total Profit
 
-📈 Visualizations Included
+## Visualizations Included
 
-Sales vs Target Trend (Time Series Analysis)
+- Sales vs Target Trend (Time Series Analysis)
 
-Profit by Market
+- Profit by Market
 
-Sales by Product Line
+- Sales by Product Line
 
-Margin Analysis by Market
+- Margin Analysis by Market
 
-🔍 Key Insights
+## Key Insights
 
-Sales closely follow target trends with minor dips in early 2013.
+- Sales closely follow target trends with minor dips in early 2013.
 
-Central market generates the highest profit.
+- Central market generates the highest profit.
 
-Beans product line contributes the highest sales.
+- Beans product line contributes the highest sales.
 
-Sales variance highlights performance gaps effectively.
+- Sales variance highlights performance gaps effectively.
 
-🎛 Interactivity
+## Interactivity
 
-Filters for Market, Product Line, and Date.
+- Filters for Market, Product Line, and Date.
 
-Dynamic comparison of Actual vs Target sales.
+- Dynamic comparison of Actual vs Target sales.
 
-🚀 Outcome
+## Outcome
 
 This dashboard helps stakeholders monitor business performance, identify underperforming markets, and make data-driven decisions.
