@@ -1,4 +1,4 @@
-**# Superstore Sales & Profit Performance Dashboard**
+## **Superstore Sales & Profit Performance Dashboard**
 
 ## Project Overview
 This project analyzes sales and profit performance using the Sample Superstore dataset in Tableau.
